@@ -6,3 +6,4 @@ Download the tools folder and put in to zjounblod folder and open zjounblod.py, 
 Link: http://www.mediafire.com/file/sbvflorr05oh34s/tools_Zjounblod.zip/file
 The link is unique, dont download of others links
 
+v0.1 Ξｘｐｌｏｉｔ　（慰隠内）
